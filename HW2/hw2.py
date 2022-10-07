@@ -9,8 +9,8 @@ import asposecells
 
 print("Convert text to following format:")
 print("-c CVS")
-print("-j CVS")
-print("-x CVS")
+print("-j JSON")
+print("-x XML")
 option = input('Your option: ')
 
 if option == '-c':
